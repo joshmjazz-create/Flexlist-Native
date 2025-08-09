@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "FlexList",
+    "slug": "flexlist",
+    "scheme": "flexlist",
+    "orientation": "portrait",
+    "android": { "package": "com.yourname.flexlist" }
+  }
+}
