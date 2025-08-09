@@ -1,0 +1,13 @@
+{
+  "name": "flexlist-native",
+  "version": "1.0.0",
+  "private": true,
+  "main": "App.js",
+  "scripts": { "start": "expo start" },
+  "dependencies": {
+    "expo": "~51.0.21",
+    "react": "18.2.0",
+    "react-native": "0.74.3",
+    "expo-sqlite": "~14.0.3"
+  }
+}
